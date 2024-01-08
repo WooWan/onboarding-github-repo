@@ -1,0 +1,4 @@
+{
+  "jsx": { "version": 4, "mode": "classic" },
+  "bs-dependencies": ["@rescript/react"]
+}
